@@ -8,11 +8,11 @@ Para manter o meu perfil do GitHub organizado e centralizado num só lugar, unif
 
 ## 🔗 Demonstrações Online (Deploy via GitHub Pages)
 
-* 🤖 **Projeto Android:** [Aceder ao Projeto](https://tinocojoao.github.io/html-css/projetos/projeto-android/)
-* 📜 **Projeto Cordel:** [Aceder ao Projeto](https://tinocojoao.github.io/html-css/projetos/projeto-cordel/)
-* 🔐 **Projeto Login:** [Aceder ao Projeto](https://tinocojoao.github.io/html-css/projetos/projeto-login/)
-* 💼 **Projeto Portfólio:** [Aceder ao Projeto](https://tinocojoao.github.io/html-css/projetos/projeto-portfolio/)
-* 📱 **Projeto Social:** [Aceder ao Projeto](https://tinocojoao.github.io/html-css/projetos/projeto-social/)
+* 🤖 **Projeto Android:** [Acessar projeto](https://tinocojoao.github.io/Curso-HTML5-CSS3/projetos/projeto-android/)
+* 📜 **Projeto Cordel:** [Acessar projeto](https://tinocojoao.github.io/Curso-HTML5-CSS3/projetos/projeto-cordel/)
+* 🔐 **Projeto Login:** [Acessar projeto](https://tinocojoao.github.io/Curso-HTML5-CSS3/projetos/projeto-login/)
+* 💼 **Projeto Portfólio:** [Acessar projeto](https://tinocojoao.github.io/Curso-HTML5-CSS3/projetos/projeto-portfolio/)
+* 📱 **Projeto Social:** [Acessar projeto](https://tinocojoao.github.io/Curso-HTML5-CSS3/projetos/projeto-social/)
 
 ---
 
