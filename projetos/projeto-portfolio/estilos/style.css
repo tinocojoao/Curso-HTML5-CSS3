@@ -142,12 +142,20 @@ article h2{
 }
 
 article#video .video-container{
-  position: relative;
+  text-align: left;
   width: 100%;
-  margin: auto;
-  aspect-ratio: 16/9;
 }
 
+p#eu1{
+  margin-bottom: 16px;
+  line-height: 1.6;
+}
+
+p#eu2{
+  margin-bottom: 0;
+}
+
+/*
 .video-container iframe{
   position: absolute;
   top: 0;
@@ -156,6 +164,7 @@ article#video .video-container{
   height: 100%;
   border-radius: 8px;
 }
+*/
 
 #skill-container{
   display: grid;
